@@ -1,7 +1,7 @@
 # project1
 Aiden Projects
 
-# Project 1: Regression Analysis of Manchester United's 2022/23 Season
+# [Project 1: Regression Analysis of Manchester United's 2022/23 Season](https://github.com/aidendash/manutd)
 - Implemented logistic regression to determine the log(odds) of a Man Utd win based on match statistics in the 22/23 season
 - Used Backwards Stepwise Regression to find candidate model based on lowest AIC
 - Added weights to the regression model to address the imbalanced dataset
